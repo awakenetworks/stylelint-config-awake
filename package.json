@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-config-awake",
+  "version": "0.1.0",
+  "description": "A stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint -c .eslintrc.json .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awakenetworks/stylelint-config-awake.git"
+  },
+  "keywords": [
+    "stylelint",
+    "lint",
+    "awake",
+    "awake networks"
+  ],
+  "author": "Krishna Rajendran <krishna@emptybox.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awakenetworks/stylelint-config-awake/issues"
+  },
+  "homepage": "https://github.com/awakenetworks/stylelint-config-awake#readme",
+  "devDependencies": {
+    "eslint-config-awake": "^0.3.2"
+  }
+}
