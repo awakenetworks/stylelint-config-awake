@@ -86,6 +86,7 @@ module.exports = {
     'selector-type-no-unknown': true,
     'shorthand-property-no-redundant-values': true,
     'string-no-newline': true,
+    'string-quotes': 'single',
     'unit-case': 'lower',
     'unit-no-unknown': true,
     'value-list-comma-newline-after': 'always-multi-line',
