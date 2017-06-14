@@ -4,7 +4,7 @@ This package provides an extensible shared .stylelintrc configuration.
 
 ## Usage
 
-1. `npm install --save-dev stylelint-config-awake`
+1. `yarn install --dev stylelint-config-awake`
 2. Add the following to your .stylelintrc
 ```
 {
