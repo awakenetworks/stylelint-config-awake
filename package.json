@@ -17,13 +17,16 @@
     "awake",
     "awake networks"
   ],
-  "author": "Krishna Rajendran <krishna@emptybox.org>",
+  "contributors": [
+    "Krishna Rajendran <krishna@emptybox.org>",
+    "Ry Racherbaumer <ry@awakenetworks.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/awakenetworks/stylelint-config-awake/issues"
   },
   "homepage": "https://github.com/awakenetworks/stylelint-config-awake#readme",
   "devDependencies": {
-    "eslint-config-awake": "^0.3.2"
+    "eslint-config-awake": "^1.5.0"
   }
 }
